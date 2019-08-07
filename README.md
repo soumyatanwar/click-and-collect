@@ -1,4 +1,4 @@
-#Shrine 
+SHRINE
  
 Shopping Application for fashion and lifestyle products built for Android using Flutter and Dart (Frontend) which allows the user to search and filter through available products (locally stored data model instead of external database) based on the Material Design principles and case study of an application by the same name.
 
